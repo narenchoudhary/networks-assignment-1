@@ -27,7 +27,7 @@
 * `dplyr`(R)
 * `magrittr`(R)
 -->
-## Plots :barplot: :chart_with_upwards_trend: ##
+## Plots :bar_chart: :chart_with_upwards_trend: ##
 
 
 ![Plot1](Rplot02.png)
