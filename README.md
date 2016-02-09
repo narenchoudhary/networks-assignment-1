@@ -19,21 +19,24 @@
 * `Data/nicru20times_allsizes2.csv` : [nic.ru](nic.ru) pinged 20 times at  64, 128 256, 512, 1024 and 2018 bytes around 4 PM  
 * `Data/nicru20times_allsizes3.csv` : [nic.ru](nic.ru) pinged 20 times at  64, 128 256, 512, 1024 and 2018 bytes around 12 AM  
 
+<!---
 ## Libraries used: ##
 
 * `requests`(Python)  
 * `ggplot2`(R)  
 * `dplyr`(R)
 * `magrittr`(R)
-
-## Plots :bar_plot: :chart_with_upwards_trend: ##
+-->
+## Plots :barplot: :chart_with_upwards_trend: ##
 
 
 ![Plot1](Rplot02.png)
 ![Plot1](Rplot03.png)
 
+<!---
 ## References :link: ##
 
 **Style**: [Hadley Wickham's R Style Guide](http://r-pkgs.had.co.nz/style.html)  
 **Linter**: [`lintr` package](https://github.com/jimhester/lintr)
 
+-->
